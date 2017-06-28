@@ -1,0 +1,36 @@
+body {
+  background-color: black; }
+
+h1 {
+  color: blue; }
+
+div {
+  width: 100px;
+  height: 100px;
+  display: inline-block; }
+
+.cuadro, #uno, #dos, #tres, #cuatro, #cinco, #seis {
+  height: 100px;
+  float: left;
+  width: 15%;
+  margin: 1px; }
+
+#uno {
+  background: purple; }
+
+#dos {
+  background: #b300b3; }
+
+#tres {
+  background: #4d004d; }
+
+#cuatro {
+  background: #4d334d; }
+
+#cinco {
+  background: green; }
+
+#seis {
+  background: #7fff7f; }
+
+/*# sourceMappingURL=style.css.map */
